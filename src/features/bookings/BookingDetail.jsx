@@ -1,4 +1,10 @@
+import { useNavigate } from "react-router-dom";
 import styled from "styled-components";
+import {
+  HiArrowDownOnSquare,
+  HiArrowUpOnSquare,
+  HiTrash,
+} from "react-icons/hi2";
 
 import BookingDataBox from "./BookingDataBox";
 import Row from "../../ui/Row";
@@ -8,19 +14,13 @@ import ButtonGroup from "../../ui/ButtonGroup";
 import Button from "../../ui/Button";
 import Spinner from "../../ui/Spinner";
 import ButtonText from "../../ui/ButtonText";
+import ConfirmDelete from "../../ui/ConfirmDelete";
+import Modal from "../../ui/Modal";
 
 import { useMoveBack } from "../../hooks/useMoveBack";
 import { useBooking } from "./useBooking";
-import { useNavigate } from "react-router-dom";
-import {
-  HiArrowDownOnSquare,
-  HiArrowUpOnSquare,
-  HiTrash,
-} from "react-icons/hi2";
 import { useCheckout } from "../check-in-out/useCheckout";
 import { useDeleteBooking } from "./useDeleteBooking";
-import Modal from "../../ui/Modal";
-import ConfirmDelete from "../../ui/ConfirmDelete";
 
 const HeadingGroup = styled.div`
   display: flex;
