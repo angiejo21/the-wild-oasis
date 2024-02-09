@@ -15,7 +15,7 @@
      
    <a href="https://the-bello-wild-oasis.netlify.app/"><strong>View my Demo »</strong></a>
 
-   <p>Built with React ⚛️ and Vite ⚡</p>
+   <p>Built with React ⚛️, Vite 🔻 and Supabase ⚡</p>
 
 </div>
 
