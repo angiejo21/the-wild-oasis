@@ -1,8 +1,24 @@
-# React + Vite
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/github_username/repo_name">
+    <img src="./public//logo-dark.png" alt="Logo" width="110" height="80">
+  </a>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h3 align="center">The Wild Oasis</h3>
 
-Currently, two official plugins are available:
+  <p align="center">
+    Built during  <a href='https://www.udemy.com/course/the-ultimate-react-course/'>The Ultimate React course</a> 
+    </br>
+    by <a hfref='https://codingheroes.io/'>Jonas Schmedtmann</a>
+    <br />
+     
+   <a href="https://the-bello-wild-oasis.netlify.app/"><strong>View my Demo »</strong></a>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+   <p>Built with React ⚛️ and Vite ⚡</p>
+
+</div>
+
+[![Product Name Screen Shot][product-screenshot]](https://the-bello-wild-oasis.netlify.app/)
+
+[product-screenshot]: ./screenshot.PNG

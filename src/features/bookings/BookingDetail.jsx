@@ -1,10 +1,6 @@
 import { useNavigate } from "react-router-dom";
 import styled from "styled-components";
-import {
-  HiArrowDownOnSquare,
-  HiArrowUpOnSquare,
-  HiTrash,
-} from "react-icons/hi2";
+import { HiArrowUpOnSquare } from "react-icons/hi2";
 
 import BookingDataBox from "./BookingDataBox";
 import Row from "../../ui/Row";
